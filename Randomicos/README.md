@@ -1,6 +1,6 @@
 ## 📦 Tela Inicial do Aplicativo
 
-![Screenshot_1630966375](https://user-images.githubusercontent.com/6372185/132263399-8ee71c8a-ccb6-4858-8eb9-52d4cf6a023c.png)
+![print-app](https://user-images.githubusercontent.com/6372185/132263619-aea978fd-47d4-4ec1-9b8a-fdb0a76b9141.png)
 
 ## 🚀 Como funciona
 
