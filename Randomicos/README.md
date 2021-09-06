@@ -11,7 +11,11 @@ Basta clicar no botão ALEATÓRIO ou no número da tela que um novo número alea
 - Android Stúdio
 - Kotlin
 
+## ✒️ Autores
 
+Mencione todos aqueles que ajudaram a levantar o projeto desde o seu início
+
+* **Cleiton do Carmo Araújo**
 
 
 
